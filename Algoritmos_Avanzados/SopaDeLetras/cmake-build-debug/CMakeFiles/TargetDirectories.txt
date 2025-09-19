@@ -1,0 +1,3 @@
+C:/Users/AXEL/Documents/PUCP/CURSOS/Algoritmos Avanzados/SopaDeLetras/cmake-build-debug/CMakeFiles/SopaDeLetras.dir
+C:/Users/AXEL/Documents/PUCP/CURSOS/Algoritmos Avanzados/SopaDeLetras/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AXEL/Documents/PUCP/CURSOS/Algoritmos Avanzados/SopaDeLetras/cmake-build-debug/CMakeFiles/rebuild_cache.dir
